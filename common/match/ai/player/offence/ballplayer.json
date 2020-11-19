@@ -1,4 +1,17 @@
 /// @class auto
 {
 	"dummy" : 0
+	"smart" : 1
+
+            "moveSpeed" : 1.0
+            "runSpeed" : 1.5
+            "walkSpeed" : 0.5
+            "bpFoul" : 1
+            "bpFoulAttackPlayerAngle" : 20.0
+            "bpRoughPlay" : 1
+            "bpContactFoul" : 1
+            "bpBlockFoul" : 1
+            "bpShootOver" : 1
+            "bpShootMissDistMin" : 10
+            "bpShootMissDistMax" : 40
 }
