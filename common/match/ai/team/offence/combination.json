@@ -29,12 +29,12 @@
 			[
 				{ "kind": 14 }, // Area00
 				{ "kind": 14 }, // Area01
-				{ "kind": 10 }, // Area02
+				{ "kind": 14 }, // Area02
 				{ "kind": 14 }, // Area03
-				{ "kind": 8  }, // Area04
+				{ "kind": 14  }, // Area04
 				{ "kind": 14 }, // Area05
-				{ "kind": 6  }, // Area06
-				{ "kind": 1  }, // Area07
+				{ "kind": 14  }, // Area06
+				{ "kind": 14  }, // Area07
 				{ "kind": 14 }, // Area08
 				{ "kind": 14 }, // Area09
 				{ "kind": 14 }  // Area10
@@ -45,17 +45,17 @@
 		{
 			"area" :
 			[
-				{ "kind": 8  }, // Area00
-				{ "kind": 10 }, // Area01
-				{ "kind": 6  }, // Area02
-				{ "kind": 13 }, // Area03
-				{ "kind": 0  }, // Area04
-				{ "kind": 4  }, // Area05
+				{ "kind": 14  }, // Area00
+				{ "kind": 14 }, // Area01
+				{ "kind": 14 }, // Area02
+				{ "kind": 14 }, // Area03
+				{ "kind": 14  }, // Area04
+				{ "kind": 14  }, // Area05
 				{ "kind": 14 }, // Area06
-				{ "kind": 12 }, // Area07
-				{ "kind": 4  }, // Area08
+				{ "kind": 14 }, // Area07
+				{ "kind": 14  }, // Area08
 				{ "kind": 14 }, // Area09
-				{ "kind": 12 }  // Area10
+				{ "kind": 14 }  // Area10
 			]
 		}
 	]

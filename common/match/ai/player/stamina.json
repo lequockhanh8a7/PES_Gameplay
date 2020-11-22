@@ -7,7 +7,7 @@
     //ドリブルの疲労
 	"dribbleTired":2,
 	//スピードによる疲労
-	"speedTired":1,
+	"speedTired":1.5,
 	//ぶつかった時の疲労
 	"contactTired":5,
 	//競り合っているときの疲労

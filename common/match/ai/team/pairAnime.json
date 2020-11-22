@@ -8,10 +8,10 @@
 
 
 	// ’âŽ~Žž‚ÌŒˆ’…‚Ü‚Å‚ÌŽžŠÔ
-	"stopDecideFrame" : 90,
+	"stopDecideFrame" : 50,
 
 	// ˆÚ“®Žž‚ÌŒˆ’…‚Ü‚Å‚ÌŽžŠÔ
-	"moveDecideFrame" : 50,
+	"moveDecideFrame" : 30,
 
 
 
